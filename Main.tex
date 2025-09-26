@@ -1,0 +1,74 @@
+%-------------------------------------------------------------------------------
+% TEMPLATE FOR SHORT ARTICLES OR REVIEWS
+%-------------------------------------------------------------------------------
+
+% ------------------ DOCUMENT SETUP ------------------ 
+\documentclass[12pt]{article}
+
+% Your name
+\title{EMPLOYEES SURVEY BOCCONI - DESCRIPTIVES}
+\author{Author Name}
+\date{\today}
+
+% Inputs the Document Packages
+\input{Packages}
+
+% Line Spacing
+\setstretch{1.5}
+
+% The folder path where the images will be uploaded
+\graphicspath{ {./Image/} } 
+
+% Header and Footer
+\pagestyle{fancy}  % Set Page Style (Header and Footer Style)
+\fancyhf{}  % Clears the header and footer (from the default info)
+
+% Footer
+\fancyfoot[C]{\thepage} % Page Number
+
+% Change figure numbering per section
+\numberwithin{figure}{section}
+\numberwithin{table}{section}
+
+% Title Formatting customization
+\titleformat{\section}{\normalfont\bfseries}{\thesection.}{1em}{\MakeUppercase}
+\titlespacing*{\section} {0pt} {0pt} {0pt}
+
+\titleformat{\subsection}{\normalfont\bfseries}{\thesubsection}{1em}{}
+\titlespacing*{\subsection} {0pt} {10pt} {10pt}
+
+\titleformat{\subsubsection}{\normalfont\bfseries}{}{1em}{}
+\titlespacing*{\subsubsection} {0pt} {10pt} {10pt}
+
+% Line Break Properties
+\tolerance=1
+\emergencystretch=\maxdimen
+\hyphenpenalty=10000
+\hbadness=10000
+
+% ------------------ DOCUMENT START ------------------
+\begin{document}
+
+\maketitle
+
+
+% Main Content
+\section{Introduction}
+\blindtext
+
+\section{Main Section}
+\subsection{Subsection}
+\blindtext
+
+\subsubsection{Subsubsection}
+\blindtext
+
+\section{Conclusion}
+\blindtext
+
+% Bibliography (Optional)
+%\newpage
+% \printbibliography[title = {References}]
+% \addcontentsline{toc}{chapter}{References} % Adds References Section to Table of Contents
+
+\end{document}
