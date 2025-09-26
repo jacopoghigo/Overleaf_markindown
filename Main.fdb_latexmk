@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1758890786.13071 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" "Main.pdf" "Main" 1758890787.42275 0
+["pdflatex"] 1758894359.13976 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" "Main.pdf" "Main" 1758894360.39271 0
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758814349 81068 299f700eb05b1217173e62b88b513bd0 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1758806565 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1758806566 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -143,11 +143,15 @@
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1749468414 4545 d7bb86d489a8ad5263e4c34304c03aee ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Main.aux" 1758890787 2044 669dd19bd1ba9a79191288a1483d979c "pdflatex"
-  "Main.tex" 1758890718 1925 f6db9af78fc7714240a4f583e2b3a190 ""
+  "Main.aux" 1758894360 3215 259e50e57d3fc6bb8f8b389edb4d3bb6 "pdflatex"
+  "Main.tex" 1758894357 2197 36909098b40bd1719872cc5497b507e6 ""
   "Packages.tex" 1758811734 2710 22ccf33afac314c27a0e53de9a25d5bc ""
-  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" 1758890718 1925 f6db9af78fc7714240a4f583e2b3a190 ""
-  "table1_ncc.tex" 1758890785 1253 2833bccd7bd04c65a6df67bbbc2411c8 ""
+  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" 1758894357 2197 36909098b40bd1719872cc5497b507e6 ""
+  "table1/table1_ncc.tex" 1758890788 1253 2833bccd7bd04c65a6df67bbbc2411c8 ""
+  "table1/table1_ncc_Belgium.tex" 1758894213 1269 4c6530d16bb9ee541b5edb4cb836ff7f ""
+  "table1/table1_ncc_Poland.tex" 1758894213 1239 4a1405f2fa9b3e35431c46bc80f4bca6 ""
+  "table1/table1_ncc_Portugal.tex" 1758894213 1233 1fa354218597ce25dd54e0ec69243ad1 ""
+  "table1/table1_ncc_Sweden.tex" 1758894213 1263 378258ed8ee53ddf174a612ad8dc8876 ""
   (generated)
   "Main.aux"
   "Main.log"

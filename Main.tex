@@ -60,7 +60,7 @@ Dovrei compilare questo report entro la prossima settimana in teoria...
 
 \section{Main Section}
 
-\input{table1_ncc.tex}
+\input{table1/table1_ncc.tex}
 
 \subsection{Subsection}
 \blindtext
@@ -75,5 +75,14 @@ Dovrei compilare questo report entro la prossima settimana in teoria...
 %\newpage
 % \printbibliography[title = {References}]
 % \addcontentsline{toc}{chapter}{References} % Adds References Section to Table of Contents
+
+\appendix
+\section*{Appendix}
+\addcontentsline{toc}{section}{Appendix} % Adds Appendix to the Table of Contents
+
+\input{table1/table1_ncc_Belgium.tex}
+\input{table1/table1_ncc_Poland.tex}
+\input{table1/table1_ncc_Portugal.tex}
+\input{table1/table1_ncc_Sweden.tex}
 
 \end{document}
