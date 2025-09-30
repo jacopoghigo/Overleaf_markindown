@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1759220139.7187 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" "Main.pdf" "Main" 1759220143.25093 0
+["pdflatex"] 1759231939.22377 "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" "Main.pdf" "Main" 1759231940.68147 0
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1758814349 81068 299f700eb05b1217173e62b88b513bd0 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs10.tfm" 1758806565 688 37338d6ab346c2f1466b29e195316aa4 ""
   "C:/Users/jacop/AppData/Local/MiKTeX/fonts/tfm/public/rsfs/rsfs5.tfm" 1758806566 684 3a51bd4fd9600428d5264cf25f04bb9a ""
@@ -145,12 +145,14 @@
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1749468414 4545 d7bb86d489a8ad5263e4c34304c03aee ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/jacop/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "Main.aux" 1759220142 3596 d1bceb7f77c9dfba21db59f9e2c7e01f "pdflatex"
-  "Main.tex" 1759219619 2187 71795c933868e141709db9834da4c00e ""
+  "Main.aux" 1759231940 4373 7c5b58c964b623dbe72716dac8188070 "pdflatex"
+  "Main.tex" 1759231772 2262 58d861c5d65990969875d44b22dea276 ""
   "Packages.tex" 1758811734 2710 22ccf33afac314c27a0e53de9a25d5bc ""
-  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" 1759219619 2187 71795c933868e141709db9834da4c00e ""
+  "c:/Users/jacop/Dropbox/ERC-MONOPSONIES/Overleaf/Overleaf_markindown/Main.tex" 1759231772 2262 58d861c5d65990969875d44b22dea276 ""
   "tables/Q32_by_country_NCC.tex" 1759220133 1147 0b0a7636b1e00a1d7958ea6f2f88ff42 ""
+  "tables/Q37_by_country_NCC.tex" 1759231937 1728 d06b400153e0613d3b2f4a9b741bf4c7 ""
   "tables/q29_country_col.tex" 1759152338 1451 abd83dd1b04c3e9130410563e0def51e ""
+  "tables/q35_country_col.tex" 1759226901 850 efb5ec89184ce7aabec503f7b5ec493c ""
   "tables/table1_ncc.tex" 1758890788 1253 2833bccd7bd04c65a6df67bbbc2411c8 ""
   "tables/table1_ncc_Belgium.tex" 1758894213 1269 4c6530d16bb9ee541b5edb4cb836ff7f ""
   "tables/table1_ncc_Poland.tex" 1758894213 1239 4a1405f2fa9b3e35431c46bc80f4bca6 ""

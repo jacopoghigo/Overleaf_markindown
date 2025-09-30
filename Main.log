@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  30 SEP 2025 10:15
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.4) (preloaded format=pdflatex 2025.9.25)  30 SEP 2025 13:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -856,7 +856,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [2]
 
-[3] (tables/table1_ncc_Belgium.tex) (tables/table1_ncc_Poland.tex) (tables/table1_ncc_Portugal.tex) (tables/table1_ncc_Sweden.tex) (tables/q29_country_col.tex) (tables/Q32_by_country_NCC.tex)
+[3] (tables/table1_ncc_Belgium.tex) (tables/table1_ncc_Poland.tex) (tables/table1_ncc_Portugal.tex) (tables/table1_ncc_Sweden.tex) (tables/q29_country_col.tex) (tables/Q32_by_country_NCC.tex) (tables/q35_country_col.tex) (tables/Q37_by_country_NCC.tex)
 
 [4]
 
@@ -866,24 +866,28 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 
 [7]
 
-[8] (Main.aux)
+[8]
+
+[9]
+
+[10] (Main.aux)
  ***********
 LaTeX2e <2025-06-01> patch level 1
 L3 programming layer <2025-09-02>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 20698 strings out of 468130
- 383689 string characters out of 5430633
- 872223 words of memory out of 5000000
- 48895 multiletter control sequences out of 15000+600000
- 678601 words of font info for 129 fonts, out of 8000000 for 9000
+ 20722 strings out of 468130
+ 384337 string characters out of 5430633
+ 881223 words of memory out of 5000000
+ 48903 multiletter control sequences out of 15000+600000
+ 678950 words of font info for 132 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  80i,12n,82p,1069b,470s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbxi10.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/jacop/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb>
-Output written on Main.pdf (8 pages, 138615 bytes).
+Output written on Main.pdf (10 pages, 144116 bytes).
 PDF statistics:
- 99 PDF objects out of 1000 (max. 8388607)
- 21 named destinations out of 1000 (max. 500000)
+ 110 PDF objects out of 1000 (max. 8388607)
+ 25 named destinations out of 1000 (max. 500000)
  36905 words of extra memory for PDF output out of 42996 (max. 10000000)
 

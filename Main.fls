@@ -318,6 +318,12 @@ INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri12
 INPUT .\tables\Q32_by_country_NCC.tex
 INPUT .\tables\Q32_by_country_NCC.tex
 INPUT tables\Q32_by_country_NCC.tex
+INPUT .\tables\q35_country_col.tex
+INPUT .\tables\q35_country_col.tex
+INPUT tables\q35_country_col.tex
+INPUT .\tables\Q37_by_country_NCC.tex
+INPUT .\tables\Q37_by_country_NCC.tex
+INPUT tables\Q37_by_country_NCC.tex
 INPUT Main.aux
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\jacop\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
